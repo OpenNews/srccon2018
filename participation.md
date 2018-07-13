@@ -148,7 +148,7 @@ Participate! To be clear, that can take many forms, and speaking isn't the only,
 Each session will be led by a facilitator or two or three who will guide participants through the session and let you know what to expect. If they describe an agenda that doesn't work for you, no worries, you can totally leave and try out a different session. SRCCON doesn't quite operate under the "rule of two feet" that some unconferences do, where people very frequently walk into and out of sessions, but facilitators do understand that people may leave or enter their sessions at any times and prepare for this.
 
 ## Where is the conference schedule?
-The SRCCON schedule lives at [schedule.srccon.org](/schedule), and will be updated for 2018 a couple weeks before SRCCON. If you load the schedule on your phone, you can even mark sessions you want to attend and build your own custom schedule. We'll also post session names outside each room during the conference.
+The [SRCCON schedule](/schedule) will be updated for 2018 a couple weeks before SRCCON. If you load the schedule on your phone, you can even mark sessions you want to attend and build your own custom schedule. We'll also post session names outside each room during the conference.
 
 ## How will I find the sessions?
 Once you pick up your conference badge at SRCCON, flip it over and you'll see a map of the space. There will also be ample signage around the venue. 
